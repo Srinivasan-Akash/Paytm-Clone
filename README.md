@@ -39,7 +39,7 @@ Go to the project directory
 - Royalty Free Images used
 - Logo Hover Effect
 - Beautifull UI/UX Design
-- OFull Blown Website
+- Clone Website
 - Dark Themed Website
 - Hosted on Netlify and set up in production
 
