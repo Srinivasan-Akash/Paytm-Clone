@@ -8,11 +8,8 @@ Hope you like my project !! I had fixed some bugs in it too !!
   - Tailwind css - A Utility First Framework of CSS
 
 ## 🚩 Demo in Laptop Screen
-https://user-images.githubusercontent.com/108281031/181750660-bfa0f397-5409-462e-9ee4-631896e91ee2.mp4
 
-## 🚩 Demo in Mobile Screen
-https://user-images.githubusercontent.com/108281031/185407519-f4155bcb-a054-47b4-8b56-1bc922217d80.mp4
-
+https://user-images.githubusercontent.com/108281031/185414120-ef0f1ad9-eb65-41bc-bc3c-5d655fd68d75.mp4
 
 ## Run Locally
 
@@ -44,12 +41,10 @@ Go to the project directory
 - Hosted on Netlify and set up in production
 
 ## 🤔 What i have learnt By working on this project
-1. Understood where to use `flex` and where to use `grid`
-2. `flex and grid` VS `absolute positioning` where to use what
-3. How to think in a box mannered
+1. Had a crystal clear understanding on how to make websites responsive in tailwind
 
 ## 😌 Honest Time to finish the project
 
-I had took about 3hrs 33min. I started it on webnesday left it and returned to it on friday. I got stuck in the 2nd section when the page is divided into 2 parts and cards are diplayed
+I had took about 4-5 hrs
 ## 👀 Feedback
 If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
